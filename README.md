@@ -124,24 +124,84 @@ Research work focused on detecting human presence using Wi-Fi RSSI changes measu
 </table>
 
 ---
-
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xeadk&show_icons=true&theme=transparent&hide_border=true&title_color=6D5DF6&text_color=8B949E&icon_color=6D5DF6&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeadk&layout=compact&theme=transparent&hide_border=true&title_color=6D5DF6&text_color=8B949E" alt="Top languages" />
+
+  <img src="https://komarev.com/ghpvc/?username=xeadk&style=for-the-badge&color=6D5DF6" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/xeadk?style=for-the-badge&color=2563EB&labelColor=111827" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/xeadk?style=for-the-badge&color=6D5DF6&labelColor=111827" alt="GitHub stars" />
+
+  <br /><br />
+
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xeadk&theme=github_dark" alt="GitHub statistics" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xeadk&theme=github_dark" alt="Most used languages by commits" />
+
 </div>
+
+---
+
+## Repository Snapshot
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xeadk/dom_kultury_community_portal">Dom Kultury Community Portal</a></h3>
+      <p>
+        Full-stack ASP.NET Core application for managing a cultural center,
+        including events, classes, registrations, administration panel and PDF generation.
+      </p>
+      <p>
+        <strong>Stack:</strong> C#, ASP.NET Core, Entity Framework Core, Identity, SQL Server
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xeadk/Grok-wrapper">Grok Wrapper</a></h3>
+      <p>
+        Python wrapper focused on API communication, request signing,
+        protocol analysis and reverse engineering of client-side request flow.
+      </p>
+      <p>
+        <strong>Stack:</strong> Python, REST API, reverse engineering
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xeadk/Java-falling-sand-simulator">Java Falling Sand Simulator</a></h3>
+      <p>
+        Interactive simulation project focused on particle behavior,
+        simple physics rules and visual experimentation.
+      </p>
+      <p>
+        <strong>Stack:</strong> Java, simulation logic, UI
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/xeadk/Quiz-app-with-lifecycle-and-prompt-activity">Android Quiz App</a></h3>
+      <p>
+        Android application demonstrating activity lifecycle handling,
+        prompt-based interaction and basic mobile application structure.
+      </p>
+      <p>
+        <strong>Stack:</strong> Kotlin, Android, Gradle
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Contact
 
-- **LinkedIn:** coming soon
-- **Portfolio:** coming soon
-- **Contact:** available through GitHub
-
----
-
 <div align="center">
-  <sub>Building across embedded systems, networks and practical software engineering.</sub>
+
+  <a href="https://www.linkedin.com/in/patryk-g%C4%85sowski-4025a2400/">
+    <img src="https://img.shields.io/badge/LinkedIn-Patryk%20G%C4%85sowski-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:p.gasowski77@gmail.com">
+    <img src="https://img.shields.io/badge/Email-p.gasowski77%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+
 </div>
