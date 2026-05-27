@@ -8,7 +8,6 @@
 
   <p>
     <a href="https://github.com/xeadk?tab=repositories"><img src="https://img.shields.io/badge/GitHub-xeadk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <img src="https://img.shields.io/badge/English-C1-2563EB?style=for-the-badge" alt="English C1" />
   </p>
 </div>
 
