@@ -104,19 +104,22 @@ Research work focused on detecting human presence using Wi-Fi RSSI changes measu
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="https://github.com/xeadk/dom_kultury_community_portal">Dom Kultury Community Portal</a>
+        <a href="https://github.com/xeadk/esg-platform">ESG Reporting Platform</a>
       </h3>
       <p>
-        Full-stack ASP.NET Core application for managing a cultural/community center with events, classes, registrations and role-based administration.
+        AI-powered platform that turns unstructured company documents into
+        standards-aligned ESG reports using LLM + Retrieval-Augmented Generation (RAG),
+        grounded in a GRI / SASB / TCFD knowledge base.
       </p>
       <p>
-        <strong>Focus:</strong> ASP.NET Core MVC, EF Core, Identity, admin workflows, PDF generation
+        <strong>Focus:</strong> RAG pipeline, async task processing (Celery), vector search, server-side PDF generation
       </p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=flat-square" />
-        <img src="https://img.shields.io/badge/QuestPDF-111827?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/pgvector-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -177,13 +180,13 @@ Research work focused on detecting human presence using Wi-Fi RSSI changes measu
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/xeadk/Quiz-app-with-lifecycle-and-prompt-activity">Android Quiz App</a></h3>
+      <h3><a href="https://github.com/xeadk/esg-platform">ESG Reporting Platform</a></h3>
       <p>
-        Android application demonstrating activity lifecycle handling,
-        prompt-based interaction and basic mobile application structure.
+        AI-powered ESG reporting for the construction sector — document ingestion,
+        RAG retrieval, background report generation and PDF export.
       </p>
       <p>
-        <strong>Stack:</strong> Kotlin, Android, Gradle
+        <strong>Stack:</strong> Python, FastAPI, React, Celery, Supabase/pgvector, OpenAI
       </p>
     </td>
   </tr>
